@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/power"
+        android:icon="@drawable/ic_action_power"
+        android:title="@string/mnu_power" />
+    <item
+        android:id="@+id/finger"
+        android:icon="@drawable/ic_action_finger"
+        android:title="@string/mnu_finger" />
+    <item
+        android:id="@+id/lock"
+        android:icon="@drawable/ic_action_lock"
+        android:title="@string/mnu_lock" />
+</menu>

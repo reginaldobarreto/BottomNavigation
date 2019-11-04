@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">BottomNavigation</string>
+    <string name="mnu_power">Power</string>
+    <string name="mnu_finger">Finger</string>
+    <string name="mnu_lock">Lock</string>
 </resources>
