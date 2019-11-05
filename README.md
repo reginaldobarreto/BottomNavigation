@@ -1,11 +1,12 @@
 # BottomNavigation
 
 ## Sobre o APP 
-Esse aplicativo xxxxxx
+Esse aplicativo tem como objetivo mostrar uma BottomNavigation em ação
 ## Conhecimento aplicado
-* xxxx
-* xxxx
-* xxxx
+* Butter Knife
+* Coordinator Layout
+* Styles
+* BottonNavigationView
 
 ## Screeshots
 
