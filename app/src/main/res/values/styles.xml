@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="BarrsStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="itemTextColor">@android:color/white</item>
+        <item name="itemIconTint">@android:color/white</item>
+        <item name="android:background">@color/colorPrimary</item>
+
+    </style>
 </resources>
